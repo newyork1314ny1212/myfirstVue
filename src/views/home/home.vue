@@ -1,3 +1,3 @@
 <template>
-    <div>的积极喝完呢单位</div>
+    <div>个GVGV回家</div>
 </template>
